@@ -27,12 +27,3 @@ The problems in the challenge are designed to mimic the interview-style question
 - Prepare for coding interviews at top tech companies by practicing real interview questions.
 
 - 
-## Daily Challenge Progress
-| Day | Problem Name                          | Company   | Status    | Language | Time Complexity | Space Complexity | Link                                                              |
-|-----|---------------------------------------|-----------|-----------|----------|-----------------|------------------|-------------------------------------------------------------------|
-| 6   | Circle and Rectangle Overlapping      | Microsoft | Completed | C++      | O(1)            | O(1)             | [Circle and Rectangle Overlapping - LeetCode](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/) |
-
-
-
-> Update the table as you complete each problem. For **"Status"**, you can use values like **Completed**, **In Progress**, or **Pending**.
-
