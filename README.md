@@ -26,20 +26,13 @@ The problems in the challenge are designed to mimic the interview-style question
 - Understand the implementation and application of algorithms like sorting, searching, dynamic programming, and backtracking.
 - Prepare for coding interviews at top tech companies by practicing real interview questions.
 
-## Challenge Breakdown
+- 
+## Daily Challenge Progress
+| Day | Problem Name                          | Company   | Status    | Language | Time Complexity | Space Complexity | Link                                                              |
+|-----|---------------------------------------|-----------|-----------|----------|-----------------|------------------|-------------------------------------------------------------------|
+| 6   | Circle and Rectangle Overlapping      | Microsoft | Completed | C++      | O(1)            | O(1)             | [Circle and Rectangle Overlapping - LeetCode](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/) |
 
-The challenge is split into 30 days with different themes:
 
-1. **Day 1-5**: Basic data structures (arrays, strings, stacks, queues)
-2. **Day 6-10**: Searching and Sorting algorithms
-3. **Day 11-15**: Recursion and Backtracking
-4. **Day 16-20**: Dynamic Programming
-5. **Day 21-25**: Graphs and Trees
-6. **Day 26-30**: Advanced problem-solving techniques
 
-## How to Use This Repository
+> Update the table as you complete each problem. For **"Status"**, you can use values like **Completed**, **In Progress**, or **Pending**.
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/DSA_Revision_with_arsh.git
-   cd DSA_Revision_with_arsh
