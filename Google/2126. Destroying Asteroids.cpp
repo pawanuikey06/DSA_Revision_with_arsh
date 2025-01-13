@@ -16,3 +16,21 @@ public:
 
     }
 };
+// 2nd Approach
+
+class Solution {
+public:
+     
+    bool asteroidsDestroyed(int mass, vector<int>& asteroids) {
+        priority_queue<int,vector<int>,greater<int>>pq(asteroids.begin(),asteroids.end());
+        long long masss=mass;
+        while(!pq.empty()){
+            int ast =pq.top();pq.pop();
+            if(ast>masss) return false;
+            masss+=ast;
+        }
+
+        return true;
+
+    }
+};
