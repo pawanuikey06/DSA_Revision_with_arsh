@@ -15,9 +15,9 @@ Challenge Link: [ProElevate - DSA Practice](https://www.proelevate.in/dsa-practi
 The problems in the challenge are designed to mimic the interview-style questions from the following companies:
 1. **Amazon**
 2. **Microsoft**
-3. **Adobe**
+3. **Google**
 4. **Goldman Sachs**
-5. **Flipkart**
+5. **Atlassian**
 6. **Walmart Labs**
 
 ## Objectives
